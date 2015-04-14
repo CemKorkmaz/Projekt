@@ -17,6 +17,11 @@ Profs. Dres. Rathke und Thies
 
 
 
+
+
+
+
+
 Bewertungskriterien
 
 Die Bewertung des Arbeitsergebnisses erfolgt anhand der 3-Tier-Architektur. Bei der Bewertung werden
